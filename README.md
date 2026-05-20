@@ -1,8 +1,9 @@
 
-# Tutorials and code examples on using ollama. 
+# Ollama - 3 lectures with code examples
 
-This is the github repo for the Sensemakers meetups on ollama.
-You can find information, code examples and tutorials here. 
+In the spring of 2024 I gave three public lectures on Ollama for the Amsterdam Sensemakers community. 
+
+In this repoo you will find the slides, code and other material I have used for these three lectures.
 
 First, download & install ollama from [www.ollama.com](http://www.ollama.com). 
 
